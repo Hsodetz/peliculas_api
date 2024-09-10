@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "8HF3vIEOmLhodhJ9TtNejpPgZSaacLFnieE2ZVRun+Q=",
+  "Source": "PeliculasAPI",
+  "BasePath": "_content/PeliculasAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PeliculasAPI/wwwroot",
+      "Source": "PeliculasAPI",
+      "ContentRoot": "/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/PeliculasAPI/PeliculasAPI/wwwroot/",
+      "BasePath": "_content/PeliculasAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/PeliculasAPI/PeliculasAPI/wwwroot/actores/19dd7472-45b8-4b98-b362-53ad61edaed2.jpg",
+      "SourceId": "PeliculasAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/PeliculasAPI/PeliculasAPI/wwwroot/",
+      "BasePath": "_content/PeliculasAPI",
+      "RelativePath": "actores/19dd7472-45b8-4b98-b362-53ad61edaed2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/actores/19dd7472-45b8-4b98-b362-53ad61edaed2.jpg"
+    }
+  ]
+}

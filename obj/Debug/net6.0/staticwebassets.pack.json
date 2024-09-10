@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/helmuthsodetz/Documents/cursoAspNetCoreUdemy/PeliculasAPI/PeliculasAPI/wwwroot/actores/19dd7472-45b8-4b98-b362-53ad61edaed2.jpg",
+      "PackagePath": "staticwebassets/actores/19dd7472-45b8-4b98-b362-53ad61edaed2.jpg"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.PeliculasAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.PeliculasAPI.props",
+      "PackagePath": "build\\PeliculasAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PeliculasAPI.props",
+      "PackagePath": "buildMultiTargeting\\PeliculasAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PeliculasAPI.props",
+      "PackagePath": "buildTransitive\\PeliculasAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
